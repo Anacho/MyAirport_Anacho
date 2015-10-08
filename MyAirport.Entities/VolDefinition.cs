@@ -8,16 +8,10 @@ namespace MyAirport.Entities
 {
     public class VolDefinition
     {
-        private int? id;
-        public int? Id
-        {
-            get { return this.id; }
-            set { this.id = value; }
-        }
-
+        public int? Id { get; set; }
         public string CIE { get; set; }
-        public string Ligne;
-        public DateTime Date;
-        public List<string> Banques;
+        public string Ligne { get; set; }
+        public DateTime Date { get; set; }
+        public List<string> Banques { get; set; }
     }
 }
