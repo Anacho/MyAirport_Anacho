@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractModel", "AbstractMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatifModel", "NatifModel\NatifModel.csproj", "{FE59EE7B-A7F0-43A9-8E27-5027EF02F740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAirport.Factory", "MyAirport.Factory\MyAirport.Factory.csproj", "{26863C18-E6F8-4A7D-824F-94BB1CF3FCDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FE59EE7B-A7F0-43A9-8E27-5027EF02F740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE59EE7B-A7F0-43A9-8E27-5027EF02F740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE59EE7B-A7F0-43A9-8E27-5027EF02F740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26863C18-E6F8-4A7D-824F-94BB1CF3FCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26863C18-E6F8-4A7D-824F-94BB1CF3FCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26863C18-E6F8-4A7D-824F-94BB1CF3FCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26863C18-E6F8-4A7D-824F-94BB1CF3FCDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
